@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\GameTeamWork\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\GameTeamWork\obj\Debug\GameTeamWork.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\GameTeamWork\obj\Debug\GameTeamWork.pdb
