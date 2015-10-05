@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouLost\bin\Debug\YouLost.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouLost\bin\Debug\YouLost.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouLost\bin\Debug\YouLost.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouLost\obj\Debug\YouLost.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouLost\obj\Debug\YouLost.pdb
