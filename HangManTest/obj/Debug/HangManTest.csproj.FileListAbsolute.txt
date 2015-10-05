@@ -1,0 +1,6 @@
+c:\Users\Niki\documents\visual studio 2015\Projects\Hangman\HangManTest\bin\Debug\HangManTest.exe.config
+c:\Users\Niki\documents\visual studio 2015\Projects\Hangman\HangManTest\bin\Debug\HangManTest.exe
+c:\Users\Niki\documents\visual studio 2015\Projects\Hangman\HangManTest\bin\Debug\HangManTest.pdb
+c:\Users\Niki\documents\visual studio 2015\Projects\Hangman\HangManTest\obj\Debug\HangManTest.exe
+c:\Users\Niki\documents\visual studio 2015\Projects\Hangman\HangManTest\obj\Debug\HangManTest.pdb
+C:\Users\Niki\Documents\Visual Studio 2015\Projects\Hangman\HangManTest\obj\Debug\HangManTest.csprojResolveAssemblyReference.cache
