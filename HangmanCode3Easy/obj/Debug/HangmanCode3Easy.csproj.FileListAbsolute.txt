@@ -4,3 +4,6 @@ c:\users\alexander\documents\visual studio 2013\Projects\HangmanGame\HangmanCode
 c:\users\alexander\documents\visual studio 2013\Projects\HangmanGame\HangmanCode3Easy\obj\Debug\HangmanCode3Easy.csprojResolveAssemblyReference.cache
 c:\users\alexander\documents\visual studio 2013\Projects\HangmanGame\HangmanCode3Easy\obj\Debug\HangmanCode3Easy.exe
 c:\users\alexander\documents\visual studio 2013\Projects\HangmanGame\HangmanCode3Easy\obj\Debug\HangmanCode3Easy.pdb
+D:\Download\SoftwareUniversity\Elinarinla\trunk\HangmanCode3Easy\bin\Debug\HangmanCode3Easy.exe.config
+D:\Download\SoftwareUniversity\Elinarinla\trunk\HangmanCode3Easy\obj\Debug\HangmanCode3Easy.exe
+D:\Download\SoftwareUniversity\Elinarinla\trunk\HangmanCode3Easy\obj\Debug\HangmanCode3Easy.pdb
