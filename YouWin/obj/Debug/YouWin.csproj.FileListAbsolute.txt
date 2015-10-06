@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouWin\bin\Debug\YouWin.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouWin\bin\Debug\YouWin.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouWin\bin\Debug\YouWin.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouWin\obj\Debug\YouWin.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouWin\obj\Debug\YouWin.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\GameTeamWork\YouWin\obj\Debug\YouWin.csprojResolveAssemblyReference.cache
