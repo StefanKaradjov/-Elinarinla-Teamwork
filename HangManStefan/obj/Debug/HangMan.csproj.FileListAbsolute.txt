@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\FundamentalLevel\AdvancedC#\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\User\Desktop\FundamentalLevel\AdvancedC#\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\User\Desktop\FundamentalLevel\AdvancedC#\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\User\Desktop\FundamentalLevel\AdvancedC#\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FundamentalLevel\AdvancedC#\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\User\Desktop\FundamentalLevel\AdvancedC#\HangMan\HangMan\obj\Debug\HangMan.pdb
