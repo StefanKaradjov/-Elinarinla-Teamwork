@@ -49,7 +49,7 @@ namespace Hangman
                     {
                         Console.Clear();
                         DrawBoard();
-                        Console.WriteLine(initialDrawing(lives));
+                        Console.WriteLine(drawingTheHangmanString);
                         Console.WriteLine("You alredy tried this letter!");
                         input = char.Parse(Console.ReadLine().ToLower());
                     }
@@ -60,6 +60,10 @@ namespace Hangman
                         Console.Clear();
                         DrawBoard();
                         Console.WriteLine(initialDrawing(lives));
+                        if (lives <= 0)
+                        {
+                            break;
+                        }
                         input = char.Parse(Console.ReadLine().ToLower());
                     }
                 }
@@ -68,41 +72,56 @@ namespace Hangman
                 {
                     Console.Clear();
 
+                    //TODO trqbva da se fixne,za6toto countera se decrementira ako se napi6e ve4e poznata bukva - DONE
+                    if (mask.Contains(input))
+                    {
+                        DrawBoard();
+                        Console.WriteLine(drawingTheHangmanString);
+                        Console.WriteLine("You alredy guessed that letter!");
+                        input = char.Parse(Console.ReadLine().ToLower());
+                        
+                        break;
+                    }
+
                     //check if there is more than one letter
-                    for (int i = 0; i<animals[index].Length; i++)
+                    for (int i = 0; i < animals[index].Length; i++)
                     {
                         if (animals[index][i] == input)
                         {
                             mask[i] = input;
                             counter--;
                         }
+
                     }
+                    
                     if (counter == 0)
                     {
+                        //TODO the hangman doesn't show up in case of winning
                         win = true;
+                        DrawBoard();
                         break;
                     }
                     DrawBoard();
                     Console.WriteLine(drawingTheHangmanString);
                     input = char.Parse(Console.ReadLine().ToLower());
-
+                    
+                  
                 }
 
-
-          
-               
-
-
-
             }
+
+            // WIN
             if (win)
-            {
+            { // ne go risuva
+                //TODO win picture
                 Console.WriteLine("You win");
             }
+            //LOSE
             else
             {
-
-                initialDrawing(lives);
+                //TODO in case of losing (picture)
+                initialDrawing(lives); // risuva 4ove4eto
+                Console.WriteLine("lost");
 
             }
 
@@ -126,18 +145,18 @@ namespace Hangman
                 Console.Write(" " + VARIABLE);
             } // prints the mask
             Console.WriteLine();
-            
 
 
-            
-            
+
+
+
         }
 
-        public static string initialDrawing(int lives )
+        public static string initialDrawing(int lives)
         {
 
-            
-            
+
+
 
             while (lives >= 0)
             {
@@ -176,11 +195,11 @@ namespace Hangman
 
                 }
 
-                }
+            }
 
             return drawingTheHangmanString;
         }
-            
-        }
+
     }
+}
 
