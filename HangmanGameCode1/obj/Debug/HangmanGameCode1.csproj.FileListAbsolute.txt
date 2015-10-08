@@ -1,0 +1,2 @@
+c:\users\alexander\documents\visual studio 2013\Projects\HangmanGame\HangmanGameCode1\bin\Debug\HangmanGameCode1.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\HangmanGame\HangmanGameCode1\obj\Debug\HangmanGameCode1.csprojResolveAssemblyReference.cache
